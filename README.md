@@ -50,6 +50,7 @@ You can later write @yourchosename and start using it once running is finalize.
 You can run bot on you local machine. It will be up and running till your PC is on. You can also deploy it online on any cloud service like AmazonWebServices, Azure, or Google Cloub. Remeber you will need atleast 2 GB RAM to unfold and run data
 
 On Windows python main.py --token=TOKEN_OBTAINED
+
 On Linux python3 main.py --token=TOKEN_OBTAINED
 
 # Ready.
